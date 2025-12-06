@@ -1,6 +1,15 @@
 ## Intro
-- Begginer to programming which I'm starting: 
+Hello, I'm zero (zerosky)!
+- Begginer to programming which I'm starting with: 
   • Python (Learning right now)
+- Artist 🎨
+----------------------------------
+## Interests
+I love rhythm games like Arcaea, PJSK. Other games like roblox, crk (Cookie Run: Kingdom), Identity V, Rolling Sky.
+
+
+
+
 
 
 
