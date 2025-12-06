@@ -1,4 +1,8 @@
-## Hi there 👋
+## Intro
+- Begginer to programming which I'm starting: 
+  • Python (Learning right now)
+
+
 
 <!--
 **xterzero/xterzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
